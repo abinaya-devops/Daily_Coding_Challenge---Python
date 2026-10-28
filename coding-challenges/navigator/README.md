@@ -37,3 +37,7 @@ I learned how a list and an index can represent browser history, and why forward
 ### 📈 Status
 
 Practiced and debugged as part of my Python learning journey.
+
+### 📸 Challenge Completed
+
+![Navigator challenge passed](IMG_20261029_001807.jpg)
