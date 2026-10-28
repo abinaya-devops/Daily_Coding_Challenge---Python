@@ -1,10 +1,10 @@
-My Python Learning Journey 🐍
+# My Python Learning Journey 🐍
 
-Welcome to my Python learning repository!
+### Welcome to my Python learning repository!
 
 I'm learning Python through freeCodeCamp and practicing coding challenges to improve my problem-solving skills.
 
-🎯 Goals
+## 🎯 Goals
 
 - Learn Python fundamentals step by step
 - Practice daily coding challenges
@@ -12,7 +12,7 @@ I'm learning Python through freeCodeCamp and practicing coding challenges to imp
 - Learn from debugging and mistakes
 - Track my learning progress consistently
 
-📚 Learning Topics
+## 📚 Learning Topics
 
 - Python basics
 - Variables and data types
@@ -22,17 +22,17 @@ I'm learning Python through freeCodeCamp and practicing coding challenges to imp
 - Functions
 - Problem-solving and debugging
 
-💻 Coding Challenges
+## 💻 Coding Challenges
 
 Challenge| Concepts Practiced| Status
 Navigator| Lists, loops, conditions, string methods, history tracking| In progress
 
-📝 My Learning Approach
+## 📝 My Learning Approach
 
 For each challenge, I aim to understand the problem, develop the logic, test my solution, and document what I learn from mistakes.
 
-🌱 Progress
+## 🌱 Progress
 
 This repository will grow as I continue learning Python and solving new challenges.
 
-Learning consistently, one problem at a time! 🚀
+### Learning consistently, one problem at a time! 🚀
