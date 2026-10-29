@@ -22,4 +22,4 @@ I solved this challenge step by step and practised identifying the username and 
 
 ## 📸 Challenge Completed
 
-![Navigator challenge passed](IMG_20261030__001807.jpg)
+![Navigator challenge passed](IMG_20261030_004932.jpg)
