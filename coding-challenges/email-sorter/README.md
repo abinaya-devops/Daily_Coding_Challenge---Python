@@ -19,3 +19,7 @@ I solved this challenge step by step and practised identifying the username and 
 ## Testing
 
 - FreeCodeCamp tests: Passed ✅
+
+## 📸 Challenge Completed
+
+![Navigator challenge passed](IMG_20261030__001807.jpg)
