@@ -26,3 +26,7 @@ The "is_prime()" helper function checks whether a candidate number is prime. The
 ### Test Results
 
 All 5 FreeCodeCamp test cases passed successfully (5/5).
+
+### 📸 Challenge Completed
+
+![Navigator challenge passed](IMG_20261031_014726.jpg)
