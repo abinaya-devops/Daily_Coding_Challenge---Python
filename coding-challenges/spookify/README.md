@@ -22,3 +22,7 @@ Output: "HeLlO~wOrLd"
 ### Test Results
 
 All 5 FreeCodeCamp test cases passed successfully (5/5).
+
+### 📸 Challenge Completed
+
+![Navigator challenge passed](IMG_20261101_023542.jpg)
