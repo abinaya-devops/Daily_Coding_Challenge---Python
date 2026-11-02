@@ -25,3 +25,11 @@ Successfully implemented the "infected()" function and passed all 5 test cases.
 
 See "solution.py".
 
+## Test Results
+
+All 5 FreeCodeCamp test cases passed successfully (5/5).
+
+## 📸 Challenge Completed
+
+![Navigator challenge passed](IMG_20261102_234308.jpg)
+
