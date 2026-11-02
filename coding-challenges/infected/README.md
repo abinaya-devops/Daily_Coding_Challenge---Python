@@ -49,7 +49,9 @@ Input| Expected Output| Actual Output
 "infected(17)"| 39808| 39808
 "infected(25)"| 5217638| 5217638
 
-## Key Takeaway: Learned to combine loops, conditions, mathematical calculations, and rounding to solve a practical simulation problem. Also practiced independently implementing and testing the solution in VS Code.
+## Key Takeaway:
+
+Learned to combine loops, conditions, mathematical calculations, and rounding to solve a practical simulation problem. Also practiced independently implementing and testing the solution in VS Code.
 
 # Code
 
