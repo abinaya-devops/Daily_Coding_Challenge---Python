@@ -1,1 +1,26 @@
+Infected
 
+Platform: FreeCodeCamp
+Language: Python
+Status: Completed
+Test Results: 5/5 passed
+
+Problem
+
+Calculate the number of infected computers after a given number of days. The infection doubles daily, and every third day a patch removes 20% of infected computers, rounded up.
+
+Concepts Practiced
+
+- "for" loops and "range()"
+- Modulo operator ("%")
+- Conditional statements
+- "math.ceil()"
+- Updating values through repeated calculations
+
+Result
+
+Successfully implemented the "infected()" function and passed all 5 test cases.
+
+Solution
+
+See "solution.py".
