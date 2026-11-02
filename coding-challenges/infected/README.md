@@ -1,4 +1,4 @@
-#:Day 06 – Infected 🦠
+# Day 06 – Infected 🦠
 
 Platform: FreeCodeCamp
 Language: Python
