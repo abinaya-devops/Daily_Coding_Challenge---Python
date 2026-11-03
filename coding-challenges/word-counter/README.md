@@ -47,4 +47,4 @@ All 5 FreeCodeCamp test cases passed successfully (5/5).
 
 ## 📸 Challenge Completed
 
-![Navigator challenge passed](IMG_20261104_211049.jpg)
+![Navigator challenge passed](IMG_20261103_211049.jpg)
