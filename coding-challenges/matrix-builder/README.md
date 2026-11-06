@@ -1,8 +1,8 @@
-Day 9 – Matrix Builder (November 6, 2026)
+# Day 9 – Matrix Builder (November 6, 2026)
 
-🐍 Challenge: Matrix Builder
+## 🐍 Challenge: Matrix Builder
 
-Problem Statement:
+### Problem Statement:
 
 Given two integers representing the number of rows and columns, create and return a matrix (list of lists) filled with zeros.
 
@@ -19,7 +19,7 @@ Output:
     [0, 0, 0]
 ]
 
-💻 Python Solution
+### 💻 Python Solution
 
 def build_matrix(rows, cols):
     matrix = []
@@ -30,7 +30,7 @@ def build_matrix(rows, cols):
 
     return matrix
 
-📚 Concepts Learned
+### 📚 Concepts Learned
 
 - Lists: Creating and storing elements in a list.
 - For Loop: Repeating operations based on the number of rows.
@@ -39,7 +39,7 @@ def build_matrix(rows, cols):
 - append(): Adding each row to the matrix.
 - return: Returning the complete matrix and ending function execution.
 
-🧠 What I Understood
+### 🧠 What I Understood
 
 1. "range(rows)" controls how many times the loop executes.
 2. "[0] * cols" creates a row containing the required number of zeros.
@@ -47,10 +47,18 @@ def build_matrix(rows, cols):
 4. "return matrix" returns the complete matrix after the loop finishes.
 5. Using "for i in rows" with an integer causes a TypeError because an integer is not iterable.
 
-🎯 Learning Outcome
+### 🎯 Learning Outcome
 
 Learned how to create a 2D list (matrix) using nested list structures, loops, list multiplication, and the append method.
 
 Platform: freeCodeCamp
 Language: Python
 Challenge: Matrix Builder
+
+### Test Results
+
+All 5 FreeCodeCamp test cases passed successfully (5/5).
+
+### 📸 Challenge Completed
+
+![Matrix_builder_challenge passed](IMG_20261105_231125.jpg)
