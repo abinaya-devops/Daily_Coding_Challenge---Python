@@ -1,22 +1,22 @@
-📅 Daily Progress
+## 📅 Daily Progress
 
 Day| Challenge| Status
 Day 10| Weekday Finder| ✅ Completed
 
 🏆 Latest Achievement
 
-Day 10 – Weekday Finder
+# Day 10 – Weekday Finder
 
 - Platform: freeCodeCamp
 - Language: Python
 - Tests Passed: 5/5
 - Concepts: datetime, strptime(), strftime(), Date Formatting
 
-📚 Learning Progress
+### 📚 Learning Progress
 
 Continuously practicing Python through daily coding challenges.
 
-My learning approach:
+### My learning approach:
 
 - Understand the problem before coding.
 - Learn the concepts and methods used.
@@ -24,7 +24,7 @@ My learning approach:
 - Test the code and fix errors.
 - Document daily learning progress.
 
-🎯 Goal
+### 🎯 Goal
 
 Improve Python programming skills, problem-solving ability, and logical thinking through consistent daily practice.
 
