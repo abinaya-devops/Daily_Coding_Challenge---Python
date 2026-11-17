@@ -1,0 +1,11 @@
+def can_post(message):
+    length = len(message)
+
+    if length <= 40:
+        return "short post"
+
+    elif length > 40 and length <= 80:
+        return "long post"
+
+    else:
+        return "invalid post"
