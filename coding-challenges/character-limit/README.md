@@ -21,3 +21,7 @@ Determine whether a social media post fits within the character limits.
 ### Test Results
 
 All 3 FreeCodeCamp test cases passed successfully (3/3).
+
+### 📸 Challenge Completed
+
+![Navigator challenge passed](IMG_20261117_221314.jpg)
